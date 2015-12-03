@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "tableget",
+    "style": "css",
+    "postcss": false
+  }
+}
